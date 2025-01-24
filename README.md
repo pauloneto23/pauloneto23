@@ -22,5 +22,5 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender nova
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/tulenginetinhopaulo/)
+- [LinkedIn]([https://www.linkedin.com/in/tulenginetinhopaulo/](https://www.linkedin.com/in/tulengi-netinho-paulo-2a4b62228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 - [Email](mailto:tulengipaulo@gmail.com)
