@@ -23,4 +23,4 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender nova
 ## 📫 Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/tulenginetinhopaulo/)
-- [Email](tulengipaulo@gmail.com)
+- [Email](mailto:tulengipaulo@gmail.com)
